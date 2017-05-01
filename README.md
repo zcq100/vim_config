@@ -8,6 +8,8 @@
     Ctrl+p  打开文件
 
 ## How to Install
+```shell
     $ git clone https://github.com/zcq100/vim_config.git ~/.vim_config
     $ cat ~/.vim_config/install.sh
     $ bash ~/.vim_config/install.sh
+```
